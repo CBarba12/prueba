@@ -1,0 +1,8 @@
+int x = "hola"
+void funcion(float v, string n){
+ while (v = "hola"){
+ p = “Mayor”
+n=34
+ x = x + 5
+ }
+}
